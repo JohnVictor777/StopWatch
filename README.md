@@ -26,7 +26,7 @@ Para executar este projeto, você precisará de:
 ## Instalação e Execução
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/JohnVictor777/nome-do-repositorio.git
+    git clone https://github.com/JohnVictor777/StopWatch.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
